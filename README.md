@@ -32,7 +32,7 @@ ecosystem projects, currently transitioning into Azure Cloud Administration.
 ## 📂 Azure Lab Repos
 | Repo | Description | Status |
 |------|-------------|--------|
-| [azure-entra-id-rbac]([https://github.com/SantoshRaoK/azure-entra-id-rbac]) | Entra ID, Users, Groups, RBAC | 🔄 In Progress |
+| [azure-entra-id-rbac](https://github.com/SantoshRaoK/azure-entra-id-rbac) | Entra ID, Users, Groups, RBAC | 🔄 In Progress |
 | [azure-vm-deployment](https://github.com/SantoshRaoK/azure-vm-deployment) | VM setup, NSGs, Remote Access | 🔄 In Progress |
 | [azure-network-config](https://github.com/SantoshRaoK/azure-network-config) | VNet, Subnets, NSGs, DNS | 🔄 In Progress |
 | [azure-storage-setup](https://github.com/SantoshRaoK/azure-storage-setup) | Blob, File Shares, Access Tiers | 🔄 In Progress |
