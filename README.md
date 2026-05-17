@@ -41,6 +41,13 @@ ecosystem projects, currently transitioning into Azure Cloud Administration.
 - Master of Information Technology — Charles Sturt University, Australia (GPA 5.25)
 - Bachelor of Technology (IT) — JNTU Hyderabad
 
+  ---
+
+## 📊 GitHub Stats
+![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshRaoK&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshRaoK&layout=compact)
+
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshkalv)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santoshkalv@gmail.com)
