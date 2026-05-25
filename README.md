@@ -1,53 +1,43 @@
 # Hi, I'm Santosh Rao 👋
-
-IT professional with 6+ years of experience in enterprise IT and Microsoft 
-ecosystem projects, currently transitioning into Azure Cloud Administration.
+IT professional with 6+ years of experience in data analytics, business intelligence
+and Microsoft ecosystem projects, working as a Data Analyst and BI Analyst.
 
 ## 🚀 Currently
-- Completing **AZ-104 Microsoft Azure Administrator** certification
-- Building hands-on Azure labs on my free Azure account
-- Open to **IT Support Analyst** and **Azure Administrator** roles in Australia
+- Learning **PL-200 Microsoft Power Platform Functional Consultant**
+- Building hands-on data and BI projects
+- Open to **Data Analyst** and **BI Analyst** roles in Australia
 
 ## 💼 Work Experience
 - **Ticketek (TEG Digital)** — Data Analyst, Adobe Audience Manager, System Support
 - **Histopath** — Data Analyst, IT Support, Jira Ticketing, NSW Health Reporting
 - **Tech Mahindra** — SME on Cisco Master Data Management & Microsoft Bing projects
 
-
-## ☁️ Azure Skills
-- Microsoft Entra ID (Azure Active Directory)
-- Azure RBAC, Conditional Access, MFA, SSPR, SSO
-- Azure Virtual Machines, VNets, Subnets, NSGs
-- Azure Storage, Blob, File Shares, Backup
-- Azure Monitor, Log Analytics, Azure Policy
-- ARM Templates, Azure CLI, PowerShell
+## 📊 Data & BI Skills
+- SQL — Querying, Reporting, Data Analysis
+- Tableau — Dashboards, Data Visualisation
+- Power BI — Reports, DAX, Data Modelling
+- Adobe Audience Manager — Audience Segmentation
+- Jira — Ticketing, Project Tracking
+- NSW Health Reporting
 
 ## 🛠️ Tech Stack
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-## 📂 Azure Lab Repos
-| Repo | Description | Status |
-|------|-------------|--------|
-| [azure-entra-id-rbac](https://github.com/SantoshRaoK/azure-entra-id-rbac) | Entra ID, Users, Groups, RBAC | ✅ Completed  |
-| [azure-vm-deployment](https://github.com/SantoshRaoK/azure-vm-deployment/blob/main/README.md)| VM setup, NSGs, Remote Access | ✅ Completed |
-| [azure-network-config](https://github.com/SantoshRaoK/azure-network-config) | VNet, Subnets, NSGs, DNS | 🔄 In Progress |
-| [azure-storage-setup](https://github.com/SantoshRaoK/azure-storage-setup) | Blob, File Shares, Access Tiers | 🔄 In Progress |
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PowerPlatform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ## 🎓 Education
 - Master of Information Technology — Charles Sturt University, Australia (GPA 5.25)
 - Bachelor of Technology (IT) — JNTU Hyderabad
 
-  ---
+---
 
 ## 📊 GitHub Stats
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshRaoK&show_icons=true&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshRaoK&layout=compact)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshkalv)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santoshkalv@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santoshkalv@gmail.com)
