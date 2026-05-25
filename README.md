@@ -3,7 +3,7 @@ IT professional with 6+ years of experience in data analytics, business intellig
 and Microsoft ecosystem projects, working as a Data Analyst and BI Analyst.
 
 ## 🚀 Currently
-- Learning **PL-200 Microsoft Power Platform Functional Consultant**
+- Learning **PL-300 Microsoft Power BI Data Analyst**
 - Building hands-on data and BI projects
 - Open to **Data Analyst** and **BI Analyst** roles in Australia
 
