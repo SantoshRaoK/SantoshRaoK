@@ -1,43 +1,123 @@
 # Hi, I'm Santosh Rao 👋
-IT professional with 6+ years of experience in data analytics, business intelligence
-and Microsoft ecosystem projects, working as a Data Analyst and BI Analyst.
 
-## 🚀 Currently
-- Learning **PL-300 Microsoft Power BI Data Analyst**
-- Building hands-on data and BI projects
-- Open to **Data Analyst** and **BI Analyst** roles in Australia
+IT professional with 6+ years of experience working across enterprise technology environments, with experience in technical support, incident management, ITSM, troubleshooting, Microsoft technologies and business-critical systems.
 
-## 💼 Work Experience
-- **Ticketek (TEG Digital)** — Data Analyst, Adobe Audience Manager, System Support
-- **Histopath** — Data Analyst, IT Support, Jira Ticketing, NSW Health Reporting
-- **Tech Mahindra** — SME on Cisco Master Data Management & Microsoft Bing projects
+I have worked across the entertainment, healthcare and technology sectors, supporting enterprise systems, resolving technical and operational issues, managing incidents and working with technical teams and business users.
 
-## 📊 Data & BI Skills
-- SQL — Querying, Reporting, Data Analysis
-- Tableau — Dashboards, Data Visualisation
-- Power BI — Reports, DAX, Data Modelling
-- Adobe Audience Manager — Audience Segmentation
-- Jira — Ticketing, Project Tracking
-- NSW Health Reporting
+## 💻 IT Support & Systems
 
-## 🛠️ Tech Stack
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PowerPlatform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- End-User & Desktop Support
+- Windows 10/11
+- Windows Server
+- Active Directory
+- Group Policy
+- Microsoft 365
+- Microsoft Intune / MDM
+- Microsoft Azure
+- ServiceNow & Jira
+- Incident & Service Request Management
+- ITSM & SLA Management
+- Remote Technical Support
+- Hardware & Software Troubleshooting
+
+## 🌐 Networking & Infrastructure
+
+- TCP/IP
+- DNS & DHCP
+- IP Addressing & Subnetting
+- Routers & Switches
+- LAN / Wi-Fi Troubleshooting
+- File Servers & Permissions
+- Backup & Disaster Recovery
+- VMware
+- Hyper-V
+- Virtual Machines
+
+## ☁️ Cloud & Microsoft Technologies
+
+- Microsoft Azure
+- Microsoft 365
+- Entra ID / Azure AD
+- Intune
+- SharePoint
+- Microsoft Teams
+- OneDrive
+- AWS Fundamentals
+
+## 🛠️ Technical Tools
+
+- PowerShell
+- ServiceNow
+- Jira
+- SQL
+- Azure CLI
+- Git & GitHub
+- Windows Administration
+- Remote Support Tools
+- RMM / MDM
+
+## 🔬 Hands-On IT Labs
+
+I'm continuously building practical IT support and systems administration labs covering:
+
+- Active Directory user, group and OU administration
+- Group Policy configuration
+- Windows Server administration
+- Microsoft 365 administration
+- User account and access management
+- Intune and endpoint management
+- DNS and DHCP configuration
+- Network troubleshooting
+- VMware and Hyper-V virtualisation
+- File server and permissions management
+- Backup and recovery
+- PowerShell administration
+- IT ticketing and troubleshooting scenarios
+
+## 💼 Professional Experience
+
+### Ticketek (TEG Digital)
+**Enterprise Technology Environment**
+- Incident management and technical issue investigation
+- SLA tracking and escalation
+- Enterprise application and system support
+- Stakeholder support and communication
+- ITSM processes
+- Cloud and data platform troubleshooting
+
+### Histopath Diagnostic Specialists
+**Technology & Operational Systems**
+- Jira incident and ticket management
+- Technical troubleshooting
+- SLA monitoring
+- Azure-based systems
+- Business-critical healthcare technology environment
+- Stakeholder and operational support
+
+### Tech Mahindra
+**Cisco & Microsoft Enterprise Projects**
+- Subject Matter Expert
+- Cisco enterprise project
+- Microsoft Bing project
+- Technical issue investigation
+- Process improvement and stakeholder support
 
 ## 🎓 Education
-- Master of Information Technology — Charles Sturt University, Australia (GPA 5.25)
-- Bachelor of Technology (IT) — JNTU Hyderabad
 
----
+**Master of Information Technology**  
+Charles Sturt University, Australia
 
-## 📊 GitHub Stats
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshRaoK&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshRaoK&layout=compact)
+**Bachelor of Technology – Information Technology**  
+JNTU Hyderabad, India
+
+## 🎯 Current Focus
+
+Currently strengthening my hands-on expertise in:
+
+**IT Support | Systems Administration | Microsoft 365 | Active Directory | Intune | Azure | Windows Server | Networking | Virtualisation**
+
+My focus is on building practical enterprise IT environments and documenting troubleshooting and administration labs here on GitHub.
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshkalv)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santoshkalv@gmail.com)
+
+- LinkedIn: linkedin.com/in/santoshkalv
